@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>My Game Site</title>
+</head>
+<body>
+  <h1>Welcome to My Games!</h1>
+  <p>Pick a game to play:</p>
+
+  <ul>
+    <li><a href="mygame.html">Play My Game 🎮</a></li>
+  </ul>
+</body>
+</html>
